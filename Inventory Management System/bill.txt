@@ -1,40 +1,37 @@
 
-							     HAWK STORES 
-						       NEW DELHI ,INDIA 
-						  		 PH:0429 25786  
-							 	  CASH BILL
+					 HAWK STORES 
+				      NEW DELHI ,INDIA 
+			  	        PH:0429 25786  
+					  CASH BILL
   ****************************************************************************************** 
 
         BILL NO : 87010  			                      USER NAME : VIKNESH
-
   CUSTOMER NAME : NANDHA S			                        USER ID : CSV785V15
-
       MOBILE NO : 9629581753				                   DATE : Sep 6 2021
-
-											                   TIME : 15:16:19
+								           TIME : 15:16:19
   ****************************************************************************************** 
- 						          PRODUCTS LIST
+ 				     PRODUCTS LIST
 _____________________________________________________________________________________________
 S.NO  Product ID   Items Name 	Category	Quantity   MRP     Discount     Total 
 _____________________________________________________________________________________________
- 1	   71019	     GHEE	   Grocery	     2	 	  250	     3.1	   493.8
- 2	   71025	     SALT	   Grocery	     2	 	  20	     4.0	   32.0
- 3	   71028	     SUGAR	   Grocery	     3	 	  45	     2.6	   127.2
- 4	   71037	     BUTTER	   Grocery	     2	 	  80	     4.6	   150.8
- 5	   71009	     TEA	   Grocery	     2	 	  59	     2.3	   113.4
- 6	   71038	     BREAD	   Grocery	     2	 	  30	     1.9	   56.2
+ 1	   71019    GHEE	   Grocery	     2	   250	     3.1       493.8
+ 2	   71025    SALT	   Grocery	     2	   20	     4.0        32.0
+ 3	   71028    SUGAR	   Grocery	     3	   45	     2.6       127.2
+ 4	   71037    BUTTER	   Grocery	     2	   80	     4.6       150.8
+ 5	   71009    TEA	           Grocery	     2	   59	     2.3       113.4
+ 6	   71038    BREAD	   Grocery	     2	   30	     1.9	56.2
 
 _____________________________________________________________________________________________
-                                                		    GRAND TOTAL :  973.4
+                                                		 GRAND TOTAL :  973.4
 
 _____________________________________________________________________________________________
-        TOTAL ITEMS    : 6  						 ACTUAL TOTAL MRP     : 1013
+        TOTAL ITEMS    : 6  				 ACTUAL TOTAL MRP     : 1013
 
-        TOTAL QUANTITY : 13  						 TOTAL DISCOUNT PRICE : 39.6
+        TOTAL QUANTITY : 13  				 TOTAL DISCOUNT PRICE : 39.6
 
-								 !!!  CONGRATS  !!!
+				 !!!  CONGRATS  !!!
 
- 						     YOU HAVE SAVED 39.6 RUPEES    
+ 			     YOU HAVE SAVED 39.6 RUPEES    
 _____________________________________________________________________________________________
- 		   ------------  GOODS ONCE SOLD CANNOT BE TAKEN BACK   -------------   
-  		                      THANK YOU !   VISIT AGAIN !                        
+ 	     ------------  GOODS ONCE SOLD CANNOT BE TAKEN BACK   -------------   
+  		                THANK YOU !   VISIT AGAIN !                        
